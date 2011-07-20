@@ -13,8 +13,9 @@ Installation
 		-config.php - base url
 		-database.php - database connections
 		-email.php - email functions
-		
-4. Code it.
+
+4. Change the .htaccess file on root depending on your  project folder. eg RewriteBase /ukulima	 to RewriteBase /{myproject}	
+5. Code it.
 
 
 Still on beta version.
